@@ -1,3 +1,10 @@
+---
+title: 一蓑烟雨任平生
+date: 2021-3-31 12:00:00
+categories: 随笔
+tags: 人生
+---
+
 - **bitmap_get_value8**
 
   这里并不总是能得到8bit，因为取值是按照sizeof(unsigned long)来取，如果想去64n+(56-63)位的值，那么只能取到64n+(7-0)位。
